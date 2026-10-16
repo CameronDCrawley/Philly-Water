@@ -13,14 +13,14 @@ The Flavor Board: Showcases daily small-batch flavors including Cherry, Lemon, B
 
 Size & Pricing Menu: Interactive cup selector featuring Kiddie ($2), Small ($3), Large ($4.50), Quart ($8), and the Philly signature Gelati ($5.50).
 
-Location & Stand Details: Provides season schedules, address (1533 S 2nd Street, Philadelphia, PA), directions, and house rules ("CASH ONLY", dog-friendly perks).
+Location & Stand Details: Provides season schedules, address, directions, and house rules.
 
 Footer: Complete neighborhood contact details, seasonal hours, copyright, and a smooth back-to-top navigation link.
 
 ## How It Works
-Structure & Layout: Built with clean, semantic HTML5 elements (<header>, <nav>, <main>, <section>, <footer>) organizing page sections naturally.
+Structure & Layout: Built with clean, semantic HTML5 elements organizing page sections naturally.
 
-Styling Integration: Linked to an external stylesheet (css/style.css) for custom layout structures, color themes, and card container layouts.
+Styling Integration: Linked to an external stylesheet for custom layout structures, color themes, and card container layouts.
 
 Responsive Navigation: Features internal jump links (#) mapping key user journeys across the menu and location details.
 
